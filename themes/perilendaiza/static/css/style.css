@@ -1,0 +1,98 @@
+* {margin:0;
+  padding:0;}
+html {
+  background : url("../../images/fond.jpg") no-repeat;
+  background-size: contains;
+  height:100%;
+  font-family : sans;
+}
+
+body {
+  color:white;
+  padding:0 1em;
+}
+
+header {
+  width:30%;
+  margin-right:10%;
+  float:right;
+}
+
+header > img {
+  width:100%
+}
+
+nav {
+  color:white
+}
+
+nav > ul {
+  width:52%;
+  list-style:none;
+  background : rgba(0,0,0,0.5);
+  border-radius:0 0 1em 1em;
+  text-align:center;
+  margin:0 0 1em 0;
+  padding:0.4em 0.5em;
+}
+
+nav li {
+  display:inline;
+  font-size:0.7em;
+  margin:1em;
+}
+
+nav li:hover {
+  display:inline;
+  font-size:0.7em;
+  margin:1em;
+  text-shadow:0px 0px 10px rgba(0,0,0,0.8)
+}
+
+nav li a{
+	color:white;
+	transition : color 0.1s;
+	text-decoration:none
+}
+nav li a:hover{
+	color:rgb(180,251,67);
+	transition : color 0.1s;
+}
+
+section > article {
+  width:50%;
+  background : rgba(0,0,0,0.5);
+  height:90%;
+  border-radius:0 0 1em 1em;
+  padding:1em;
+}
+section > h2 {
+  width:50%;
+  background : rgba(0,0,0,0.5);
+  height:90%;
+  border-radius:1em 1em 0 0;
+  padding:0.67em;
+  margin-bottom:0.05em;
+}
+
+
+h1 {
+  width:50%;
+  background : rgba(0,0,0,0.5);
+  height:90%;
+  border-radius:1em 1em 0 0;
+  margin-bottom:0.05em;
+  padding : 0.55em 0.67em;
+  font-family:'Big_Bottom_Cartoon';
+  line-height:0.9em;
+}
+section a {
+  color: orange;
+  text-decoration : none;
+}
+
+section a:hover {
+  text-decoration : underline;
+}
+
+

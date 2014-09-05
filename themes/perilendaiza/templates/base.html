@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  {% block title %}
+  <title>{{ SITENAME }}</title>
+  {% endblock %}
+  <link rel="stylesheet" media="screen" href="http://openfontlibrary.org/face/big-bottom-cartoon-normal" rel="stylesheet" type="text/css"/>
+  {% block styles %}
+       <link rel="stylesheet" type="text/css" href="../theme/css/style.css" />
+   {% endblock %}
+</head>
+<body>
+  <header>
+  {% block headerImg%}
+    <img src="images/peril-en-daiza-logo-titre.png" alt="logo péril en Daiza" />
+    {% endblock %}
+  </header>
+  <nav>
+    <ul>
+    {% for page in pages %}
+      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+  <section>
+    <h1>{{ title }}</h1>
+    <article>
+      <p>  {% block contenu %}
+       XXXXXXXXXXXXXXX
+   {% endblock %}</p>
+    </article>
+  </section>
+  
+  <aside></aside>
+  <footer></footer>
+</body>
+</html>
