@@ -13,6 +13,8 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'fr'
 
+#THEME = 'perilendaiza'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -30,4 +32,4 @@ LINKS = (('Blender pour le jeu vidéo', 'http://fr.flossmanuals.net/blender-pour
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
