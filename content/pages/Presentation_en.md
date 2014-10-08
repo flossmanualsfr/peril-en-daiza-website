@@ -1,9 +1,9 @@
-Title: Présentation du jeu
+Title: Presentation of the game
 Date: 2014-09-04 23:00
 Category: Jeux
 Lang: en
 Slug: presentation-du-jeu
 
-Un jeune panda qui sauve ses semblables. Vous connaissez l'histoire ?
+A panda on a quest to save his own kind. Do you know the story?
 
-![Alt Text]({filename}/images/ecran-de-depart_fond.png)
+![Startup screen]({filename}/images/ecran-de-depart_fond.png)

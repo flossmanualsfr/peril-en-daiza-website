@@ -4,7 +4,7 @@ Category: Jeux
 Slug: regles-du-jeu
 Lang: fr
 
-Vous êtes le jeune panda  ![Panda]({filename}/images/panda.png)  et votre objectif et de sauver votre famille en suivant une fabuleuse prophétie. Pour cela vous devrez recueillir tous les bambous et les passer d'un niveau à l'autre pour les emmener au Grand Panda.
+Vous êtes le jeune panda  ![Panda]({filename}/images/panda.png)  et votre objectif est de sauver votre famille en suivant une fabuleuse prophétie. Pour cela vous devrez recueillir tous les bambous et les passer d'un niveau à l'autre pour les emmener au Grand Panda.
 
 ![Et l'aventure commence !']({filename}/images/ecran-histoire_006.png)
 

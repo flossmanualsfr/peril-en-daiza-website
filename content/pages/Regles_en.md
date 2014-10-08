@@ -1,17 +1,21 @@
-Title: Régles du jeu
+Title: Rules of the game
 Date: 2014-09-04 23:00
 Category: Jeux
 Slug: regles-du-jeu
 Lang: en
 
-Vous êtes le jeune panda  ![Panda]({filename}/images/panda.png)  et votre objectif et de sauver votre famille en suivant une fabuleuse prophétie. Pour cela vous devrez recueillir tous les bambous et les passer d'un niveau à l'autre pour les emmener au Grand Panda.
+You are are a young panda ![Panda]({filename}/images/panda.png) and your goal is to save your family by accomplishing a marvelous prophecy. 
+You will have to collect bamboos and bring them from one level to the other until you reach the big panda.
 
-![Et l'aventure commence !']({filename}/images/ecran-histoire_006.png)
+![The adventure begins !']({filename}/images/ecran-histoire_006.png)
 
-Les bambous ![Bambous]({filename}/images/bambous.png) peuvent être situés dans des espaces ouverts ou des espaces clos. Des interrupteurs vous permettent d'ouvrir les espaces clos pour y pénétrer.
+the bamboos ![Bamboos]({filename}/images/bambous.png) are located in open or closed spaces. 
+Buttons ![door buttons]({filename}/images/interrupteur.png)  will allow you to opin closed spaces so you can visit them.
 
-Mais attention, des ennemis vous guettent. Ils sont plus ou moins vivaces et rapides, mais plus vous approcherez du but, plus ils seront rudes. Pour les ralentir, utilisez votre baton pour geler le sol et les empêcher de se lancer à votre poursuite. La magie a pourtant ses limites et au-delà de trois utilisations sur un niveau, il ne fonctionnera plus et vous n'aurez que votre intelligence pour vous en sortir.
+But be careful, enemies are watching you. They are more or less alive and fast, but the closer you'll get to the goal, the harder they will be. 
+To slow them down, use your magic stick to freeze the ground and prevent them from following you. 
+Magic has its limits. You can only use the stick for a maximum of 3 times per level.
 
-S'en sortir justement : à chaque niveau, une fois tous les bambous récupérés, repérez la porte, foncez vers l'interrupteur  ![interrupteurs des portes]({filename}/images/interrupteur.png) qui l'actionne et sortez au plus vite pour atteindre le niveau suivant.
+For each level, once all the bamboos have been collected, run for the exit door and you will then be brought to the next level. 
 
 

@@ -6,4 +6,4 @@ Slug: presentation-du-jeu
 
 Un jeune panda qui sauve ses semblables. Vous connaissez l'histoire ?
 
-![Alt Text]({filename}/images/ecran-de-depart_fond.png)
+![Ecran de démarrage]({filename}/images/ecran-de-depart_fond.png)

@@ -1,15 +1,14 @@
-Title: Télécharger
+Title: Download
 Date: 2014-09-04 23:00
 Category: Jeux
 Slug: telecharger
 Lang: en
 
- ![premier niveau de peril en Daiza]({filename}/images/premier-niveau.jpg) 
+ ![First level of Peril in Daiza]({filename}/images/premier-niveau.jpg) 
 
-Pour jouer à Peril en Daïza il vous faudra :
+To play Peril in Daïza, you will need :
 
-* Une version à jour de Blender récupérée sur le site du logiciel : [https://builder.blender.org/download/](https://builder.blender.org/download/)
+* The latest version of Blender : [https://builder.blender.org/download/](https://builder.blender.org/download/)
+* The game itself : [https://github.com/flossmanualsfr/peril-en-daiza/blob/master/game/peril_en_daiza.blend](https://github.com/flossmanualsfr/peril-en-daiza/blob/master/game/peril_en_daiza.blend)
 
-* Le jeu proprement dit : [https://github.com/flossmanualsfr/peril-en-daiza/blob/master/game/peril_en_daiza.blend](https://github.com/flossmanualsfr/peril-en-daiza/blob/master/game/peril_en_daiza.blend)
-
-Pour lancer le jeu, ouvrez le fichier peril_en_daiza.blend dans Blender et appuyez sur P
+To run the game, open the file peril_en_daiza.blend in Blender and hit the letter 'P' on your keyboard.
