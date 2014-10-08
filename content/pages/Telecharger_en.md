@@ -2,7 +2,7 @@ Title: Télécharger
 Date: 2014-09-04 23:00
 Category: Jeux
 Slug: telecharger
-Lang: fr
+Lang: en
 
  ![premier niveau de peril en Daiza]({filename}/images/premier-niveau.jpg) 
 
