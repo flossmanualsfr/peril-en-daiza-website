@@ -1,4 +1,4 @@
-Title: Régles du jeu
+Title: Règles du jeu
 Date: 2014-09-04 23:00
 Category: Jeux
 Slug: regles-du-jeu
